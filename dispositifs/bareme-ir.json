@@ -1,0 +1,27 @@
+{
+  "id": "bareme-ir",
+  "nom": "Barème de l'impôt sur le revenu",
+  "famille": "reference",
+  "statut": "en vigueur",
+  "calcul": null,
+  "valeurs": {
+    "annee_revenus": 2025,
+    "tranches": [
+      { "jusqua": 11600, "taux": 0 },
+      { "jusqua": 29579, "taux": 0.11 },
+      { "jusqua": 84577, "taux": 0.30 },
+      { "jusqua": 181917, "taux": 0.41 },
+      { "jusqua": null, "taux": 0.45 }
+    ]
+  },
+  "explications": {
+    "en_bref": "L'impôt se calcule par tranches : chaque partie de vos revenus (par part) est taxée à un taux qui augmente avec les revenus.",
+    "comment": ["Divisez votre revenu imposable par votre nombre de parts : la tranche où tombe ce montant donne votre taux marginal."],
+    "attention": ["Les seuils s'appliquent au revenu par part, pas au revenu total du foyer."]
+  },
+  "sources": [
+    { "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1419", "titre": "Barème de l'impôt sur le revenu (service-public.gouv.fr)", "verifie_le": "2026-11-06" }
+  ],
+  "echeances": [],
+  "maj": "2026-11-06"
+}

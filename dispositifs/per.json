@@ -1,0 +1,35 @@
+{
+  "id": "per",
+  "nom": "Plan d'épargne retraite (PER)",
+  "famille": "epargne-retraite",
+  "statut": "en vigueur",
+  "calcul": "per",
+  "valeurs": {
+    "annee_versements": 2026,
+    "taux_revenus": 0.10,
+    "plafond_min": 4710,
+    "plafond_max": 37680,
+    "report_annees": 5
+  },
+  "explications": {
+    "en_bref": "Un placement pour la retraite : ce que vous y versez est retiré de vos revenus imposables de l'année, donc vous payez moins d'impôt.",
+    "comment": [
+      "Retrouvez votre plafond sur votre avis d'impôt 2026 (rubrique « plafond épargne retraite », un montant par personne du foyer).",
+      "Ouvrez un PER auprès d'une banque, d'un assureur ou d'un courtier, ou alimentez celui que vous avez déjà.",
+      "Versez avant le 31 décembre : le versement est retiré de vos revenus de l'année.",
+      "Au printemps suivant, vérifiez que le montant versé figure bien sur votre déclaration de revenus."
+    ],
+    "attention": [
+      "L'argent est en principe bloqué jusqu'à la retraite ; un retrait anticipé n'est possible que dans quelques cas (par exemple l'achat de la résidence principale).",
+      "Ce qui a été déduit à l'entrée est imposé à la sortie : l'avantage est surtout intéressant si votre taux d'imposition est plus bas à la retraite.",
+      "Le plafond est propre à chaque personne du foyer ; la part non utilisée se reporte sur les années suivantes (5 ans, mais seulement 3 ans pour les reliquats de 2024 et 2025)."
+    ]
+  },
+  "sources": [
+    { "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34982", "titre": "Plan d'épargne retraite (PER) : déduction des versements (service-public.gouv.fr)", "verifie_le": "2026-11-06" }
+  ],
+  "echeances": [
+    { "date": "2026-12-31", "libelle": "Dernier jour pour un versement sur un PER retiré des revenus 2026" }
+  ],
+  "maj": "2026-11-06"
+}

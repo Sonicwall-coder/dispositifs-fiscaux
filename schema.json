@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Fiche de dispositif fiscal",
+  "type": "object",
+  "required": ["id", "nom", "famille", "statut", "valeurs", "explications", "sources", "maj"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "nom": { "type": "string" },
+    "famille": { "enum": ["reference", "epargne-retraite", "quotidien", "transmission", "immobilier"] },
+    "statut": { "enum": ["en vigueur", "supprimé", "à confirmer"] },
+    "calcul": { "type": ["string", "null"], "description": "identifiant du calcul de l'app qui utilise la fiche, ou null" },
+    "valeurs": { "type": "object", "description": "plafonds, taux, âges, dates : nombres ou textes datés" },
+    "explications": {
+      "type": "object",
+      "required": ["en_bref"],
+      "properties": {
+        "en_bref": { "type": "string" },
+        "comment": { "type": "array", "items": { "type": "string" } },
+        "attention": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["url", "titre", "verifie_le"],
+        "properties": {
+          "url": { "type": "string", "format": "uri" },
+          "titre": { "type": "string" },
+          "verifie_le": { "type": "string", "format": "date" }
+        }
+      }
+    },
+    "echeances": {
+      "type": "array",
+      "items": { "type": "object", "required": ["date", "libelle"], "properties": { "date": { "type": "string", "format": "date" }, "libelle": { "type": "string" } } }
+    },
+    "maj": { "type": "string", "format": "date" }
+  }
+}

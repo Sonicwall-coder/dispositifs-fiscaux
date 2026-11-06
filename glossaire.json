@@ -1,0 +1,8 @@
+{
+  "tranche marginale": "Le taux d'impôt de la dernière tranche atteinte par vos revenus (par part). C'est ce taux qui s'applique à un euro de revenu en plus, ou en moins.",
+  "revenu imposable": "Vos revenus après les abattements prévus (par exemple 10 % pour frais professionnels sur les salaires). Il figure sur votre avis d'impôt.",
+  "parts": "Le nombre de parts de quotient familial : 1 par adulte, en général 0,5 pour chacun des deux premiers enfants, puis 1 par enfant. Le revenu est divisé par ce nombre avant d'appliquer le barème.",
+  "plafond de déduction": "Le montant maximum que vous pouvez retirer de vos revenus imposables grâce à un dispositif (par exemple vos versements sur un PER).",
+  "déduction": "Un montant retiré de vos revenus avant le calcul de l'impôt : il fait économiser votre taux marginal (30 % d'impôt en moins pour 100 € déduits si vous êtes dans la tranche à 30 %).",
+  "avis d'impôt": "Le document envoyé chaque été par les impôts, qui récapitule vos revenus de l'année précédente, votre impôt et vos plafonds (dont celui du PER)."
+}
