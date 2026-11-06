@@ -1,0 +1,36 @@
+{
+  "id": "dons",
+  "nom": "Dons aux associations",
+  "famille": "quotidien",
+  "statut": "en vigueur",
+  "calcul": "dons",
+  "valeurs": {
+    "annee": 2026,
+    "taux": 0.66,
+    "limite_revenu": 0.2,
+    "taux_aide_personnes": 0.75,
+    "plafond_aide_personnes": 2000,
+    "report_ans": 5
+  },
+  "explications": {
+    "en_bref": "Une partie de ce que vous donnez à une association vous est rendue en impôt en moins : 66 % du don, et même 75 % pour les associations qui aident les personnes en difficulté.",
+    "comment": [
+      "Gardez les reçus fiscaux envoyés par les associations.",
+      "Au printemps, déclarez le total de l'année dans la rubrique des dons (réductions d'impôt) ; les dons aux associations d'aide aux personnes en difficulté se déclarent à part.",
+      "Si vos dons dépassent la limite, l'excédent se reporte sur les 5 années suivantes."
+    ],
+    "attention": [
+      "Le total retenu à 66 % ne peut pas dépasser 20 % de votre revenu imposable.",
+      "Le taux de 75 % ne vaut que pour les organismes qui fournissent repas, soins ou logement à des personnes en difficulté, jusqu'à 2 000 € de dons en 2026."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F426",
+      "titre": "Dons aux associations : réduction d'impôt (service-public.gouv.fr)",
+      "verifie_le": "2026-11-06"
+    }
+  ],
+  "echeances": [],
+  "maj": "2026-11-06"
+}

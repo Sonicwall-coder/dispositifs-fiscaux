@@ -1,0 +1,35 @@
+{
+  "id": "garde-enfants",
+  "nom": "Frais de garde des jeunes enfants",
+  "famille": "quotidien",
+  "statut": "en vigueur",
+  "calcul": "garde-enfants",
+  "valeurs": {
+    "annee": 2026,
+    "taux": 0.5,
+    "plafond_par_enfant": 3500,
+    "age_limite": 6,
+    "ne_a_partir_du": "2020-01-01"
+  },
+  "explications": {
+    "en_bref": "La moitié des frais de crèche, d'assistante maternelle ou de garderie d'un enfant de moins de 6 ans vous est rendue, même si vous ne payez pas d'impôt (crédit d'impôt).",
+    "comment": [
+      "Gardez l'attestation de la crèche ou l'attestation fiscale Pajemploi.",
+      "Au printemps, déclarez les frais de l'année dans la rubrique des frais de garde des enfants de moins de 6 ans, en retirant le complément de mode de garde de la Caf et les aides de l'employeur."
+    ],
+    "attention": [
+      "Pour les frais de 2026, l'enfant doit être né à partir du 1er janvier 2020.",
+      "Les frais sont retenus dans la limite de 3 500 € par enfant (1 750 € en garde alternée).",
+      "Une garde à votre domicile relève de l'emploi d'un salarié à domicile, pas de ce crédit."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F8",
+      "titre": "Frais de garde des jeunes enfants : crédit d'impôt (service-public.gouv.fr)",
+      "verifie_le": "2026-11-06"
+    }
+  ],
+  "echeances": [],
+  "maj": "2026-11-06"
+}

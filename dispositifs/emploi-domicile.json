@@ -1,0 +1,36 @@
+{
+  "id": "emploi-domicile",
+  "nom": "Emploi d'un salarié à domicile",
+  "famille": "quotidien",
+  "statut": "en vigueur",
+  "calcul": "emploi-domicile",
+  "valeurs": {
+    "annee": 2026,
+    "taux": 0.5,
+    "plafond": 12000,
+    "majoration_par_personne": 1500,
+    "plafond_majore": 15000,
+    "plafond_premiere_annee": 15000,
+    "plafond_premiere_annee_majore": 18000
+  },
+  "explications": {
+    "en_bref": "La moitié de ce que vous payez pour un ménage, du jardinage, du soutien scolaire ou une garde à domicile vous est rendue, même si vous ne payez pas d'impôt (c'est un crédit d'impôt).",
+    "comment": [
+      "Gardez l'attestation annuelle (Cesu, Urssaf ou organisme prestataire).",
+      "Au printemps, déclarez le total de l'année dans la rubrique de l'emploi d'un salarié à domicile, en retirant les aides reçues (complément de mode de garde, APA, aide de l'employeur)."
+    ],
+    "attention": [
+      "Les dépenses sont retenues dans la limite de 12 000 € par an, plus 1 500 € par enfant à charge ou personne de plus de 65 ans du foyer, sans dépasser 15 000 € (15 000 € et 18 000 € la première année d'emploi direct).",
+      "Certains travaux ont leur propre limite : petit bricolage 500 €, assistance informatique 3 000 €, petit jardinage 5 000 €."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12",
+      "titre": "Emploi d'un salarié à domicile : crédit d'impôt (service-public.gouv.fr)",
+      "verifie_le": "2026-11-06"
+    }
+  ],
+  "echeances": [],
+  "maj": "2026-11-06"
+}

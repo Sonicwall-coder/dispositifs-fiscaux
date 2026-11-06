@@ -7,5 +7,8 @@
   "avis d'impôt": "Le document envoyé chaque été par les impôts, qui récapitule vos revenus de l'année précédente, votre impôt et vos plafonds (dont celui du PER).",
   "abattement": "Une part d'un montant qui n'est pas imposée : par exemple, les 4 600 premiers euros de gains retirés chaque année d'une assurance vie de plus de 8 ans.",
   "prélèvements sociaux": "Des contributions (CSG, CRDS…) prélevées sur les revenus de l'épargne, en plus ou à la place de l'impôt sur le revenu ; ils restent dus même quand l'impôt sur le revenu ne l'est pas.",
-  "clause bénéficiaire": "La phrase du contrat d'assurance vie qui dit qui recevra l'argent au décès."
+  "clause bénéficiaire": "La phrase du contrat d'assurance vie qui dit qui recevra l'argent au décès.",
+  "crédit d'impôt": "Un avantage déduit de votre impôt et, s'il dépasse l'impôt, remboursé : même un foyer non imposable en profite.",
+  "réduction d'impôt": "Un avantage déduit de votre impôt, mais jamais remboursé au-delà : si vous ne payez pas d'impôt, vous n'en profitez pas.",
+  "reçu fiscal": "L'attestation qu'une association vous envoie après un don, à garder pour justifier la réduction d'impôt."
 }

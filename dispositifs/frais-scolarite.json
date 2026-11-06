@@ -1,0 +1,33 @@
+{
+  "id": "frais-scolarite",
+  "nom": "Enfants au collège, au lycée ou dans le supérieur",
+  "famille": "quotidien",
+  "statut": "en vigueur",
+  "calcul": "frais-scolarite",
+  "valeurs": {
+    "annee_revenus": 2025,
+    "college": 61,
+    "lycee": 153,
+    "superieur": 183
+  },
+  "explications": {
+    "en_bref": "Chaque enfant à charge qui fait des études vous donne droit à une petite réduction d'impôt fixe, quels que soient les frais réels : il suffit de le déclarer.",
+    "comment": [
+      "Au printemps, indiquez le nombre d'enfants à charge au collège, au lycée et dans le supérieur, dans la rubrique des enfants à charge poursuivant leurs études (réductions d'impôt)."
+    ],
+    "attention": [
+      "L'enfant doit être à charge (ou majeur rattaché) et scolarisé au 31 décembre de l'année.",
+      "Un enfant rémunéré pour ses études (apprentissage, contrat d'études) n'y donne pas droit.",
+      "Montants des revenus 2025 : ceux de 2026 seront repris par la veille dès leur publication."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F9",
+      "titre": "Frais de scolarité des enfants : réduction d'impôt (service-public.gouv.fr)",
+      "verifie_le": "2026-11-06"
+    }
+  ],
+  "echeances": [],
+  "maj": "2026-11-06"
+}
