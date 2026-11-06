@@ -1,1 +1,22 @@
-[]
+[
+ {
+  "date": "2026-11-06",
+  "heure": "15:58",
+  "moteur": "routine Claude (Sonnet)",
+  "jour_de_veille": true,
+  "listes_lues": 3,
+  "pages_lues": 1,
+  "nouveautes": 2,
+  "resultat": "base mise à jour",
+  "changements": [
+   {
+    "fiche": "pea",
+    "champ": "fiche",
+    "avant": "absente",
+    "apres": "créée, statut à confirmer",
+    "source": "https://bofip.impots.gouv.fr/bofip/14721-PGP.html/ACTU-2025-00113"
+   }
+  ],
+  "duree_s": 300
+ }
+]

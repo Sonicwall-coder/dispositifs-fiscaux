@@ -1,0 +1,5 @@
+[
+ {"nom":"Service-public.fr – actualités pour les particuliers","url":"https://www.service-public.gouv.fr/abonnements/rss/actu-actualites-particuliers.rss","type":"rss"},
+ {"nom":"BOFiP – actualités","url":"https://bofip.impots.gouv.fr/actualites/toutes-les-actualites/all","type":"page"},
+ {"nom":"BOFiP – page des flux RSS","url":"https://bofip.impots.gouv.fr/flux-rss","type":"page"}
+]

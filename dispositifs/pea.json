@@ -1,0 +1,22 @@
+{
+  "id": "pea",
+  "nom": "Plan d'épargne en actions (PEA et PEA-PME)",
+  "famille": "epargne-retraite",
+  "statut": "à confirmer",
+  "calcul": null,
+  "valeurs": {
+    "droits_preferentiels_souscription": "admis sous conditions (BOFiP du 2026-10-26)",
+    "titres_163_bis_h": "exclus ; exonération supprimée à partir du 2026-02-20 pour les titres déjà au plan avant le 2025-02-15"
+  },
+  "explications": {
+    "en_bref": "Un compte pour acheter des actions : après une certaine durée, les gains ne sont plus soumis à l'impôt sur le revenu (seulement aux prélèvements sociaux).",
+    "attention": [
+      "Fiche en cours de constitution : les plafonds de versement et la durée de détention n'ont pas encore été relevés sur une source officielle.",
+      "Les titres issus de certains plans réservés aux dirigeants (« management packages ») ne profitent plus de l'exonération."
+    ]
+  },
+  "sources": [
+    { "url": "https://bofip.impots.gouv.fr/bofip/14721-PGP.html/ACTU-2025-00113", "titre": "BOFiP – Actualité : modifications du PEA et du PEA-PME", "verifie_le": "2026-11-06" }
+  ],
+  "maj": "2026-11-06"
+}
