@@ -1,0 +1,28 @@
+{
+  "id": "clause-beneficiaire",
+  "nom": "Clause bénéficiaire de l'assurance vie",
+  "famille": "transmission",
+  "statut": "en vigueur",
+  "calcul": "clause-beneficiaire",
+  "valeurs": {},
+  "explications": {
+    "en_bref": "C'est la phrase du contrat qui dit qui recevra l'argent à votre décès : elle décide de tout, et elle doit suivre votre vie (mariage, enfants, séparation).",
+    "comment": [
+      "Relisez la clause de chaque contrat (sur vos relevés annuels ou en demandant à l'assureur).",
+      "Si elle ne correspond plus à ce que vous voulez, demandez à l'assureur de la modifier : c'est gratuit."
+    ],
+    "attention": [
+      "Une clause trop vague ou dépassée peut faire perdre l'avantage fiscal ou envoyer l'argent à la mauvaise personne.",
+      "À voir avec un notaire si votre famille est recomposée ou si vous voulez un partage particulier."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F22414",
+      "titre": "Assurance vie : fiscalité des rachats et au décès (service-public.gouv.fr)",
+      "verifie_le": "2026-11-06"
+    }
+  ],
+  "echeances": [],
+  "maj": "2026-11-06"
+}

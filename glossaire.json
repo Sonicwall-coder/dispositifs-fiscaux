@@ -10,5 +10,7 @@
   "clause bénéficiaire": "La phrase du contrat d'assurance vie qui dit qui recevra l'argent au décès.",
   "crédit d'impôt": "Un avantage déduit de votre impôt et, s'il dépasse l'impôt, remboursé : même un foyer non imposable en profite.",
   "réduction d'impôt": "Un avantage déduit de votre impôt, mais jamais remboursé au-delà : si vous ne payez pas d'impôt, vous n'en profitez pas.",
-  "reçu fiscal": "L'attestation qu'une association vous envoie après un don, à garder pour justifier la réduction d'impôt."
+  "reçu fiscal": "L'attestation qu'une association vous envoie après un don, à garder pour justifier la réduction d'impôt.",
+  "donation": "Le fait de donner un bien ou de l'argent de son vivant ; elle est en principe définitive.",
+  "rappel fiscal": "La règle qui additionne les donations faites par une même personne à une même personne sur 15 ans pour appliquer l'abattement."
 }

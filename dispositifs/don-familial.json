@@ -1,0 +1,49 @@
+{
+  "id": "don-familial",
+  "nom": "Don d'une somme d'argent à un enfant majeur",
+  "famille": "transmission",
+  "statut": "en vigueur",
+  "calcul": "don-familial",
+  "valeurs": {
+    "montant": 31865,
+    "age_max_donateur": 80,
+    "age_min_beneficiaire": 18,
+    "rappel_ans": 15,
+    "delai_declaration_mois": 1,
+    "logement_plafond_par_donateur": 100000,
+    "logement_plafond_par_beneficiaire": 300000,
+    "logement_fin": "2026-12-31"
+  },
+  "explications": {
+    "en_bref": "En plus des 100 000 €, chaque parent de moins de 80 ans peut donner 31 865 € en argent à chaque enfant majeur, sans droits.",
+    "comment": [
+      "Versez la somme par chèque, virement ou en espèces.",
+      "L'enfant la déclare en ligne dans son espace Finances publiques, dans le mois qui suit le don.",
+      "Jusqu'au 31 décembre 2026, un don d'argent pour acheter un logement neuf ou faire des travaux de rénovation énergétique peut aller jusqu'à 100 000 € par donateur, sans condition d'âge : l'argent doit être utilisé dans les 6 mois."
+    ],
+    "attention": [
+      "Le donateur doit avoir moins de 80 ans le jour du don, et l'enfant être majeur.",
+      "Ce don se renouvelle tous les 15 ans.",
+      "À voir avec un notaire pour les montants importants."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36656",
+      "titre": "Don d'une somme d'argent (service-public.gouv.fr)",
+      "verifie_le": "2026-11-06"
+    },
+    {
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1265",
+      "titre": "Démarches fiscales pour un don manuel (service-public.gouv.fr)",
+      "verifie_le": "2026-11-06"
+    }
+  ],
+  "echeances": [
+    {
+      "date": "2026-12-31",
+      "libelle": "Fin du don d'argent exonéré pour l'achat d'un logement neuf ou une rénovation énergétique (jusqu'à 100 000 € par donateur)"
+    }
+  ],
+  "maj": "2026-11-06"
+}

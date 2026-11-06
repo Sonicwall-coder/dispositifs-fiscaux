@@ -1,0 +1,34 @@
+{
+  "id": "donation-enfants",
+  "nom": "Donner à ses enfants",
+  "famille": "transmission",
+  "statut": "en vigueur",
+  "calcul": "donation-enfants",
+  "valeurs": {
+    "abattement_enfant": 100000,
+    "abattement_petit_enfant": 31865,
+    "rappel_ans": 15
+  },
+  "explications": {
+    "en_bref": "Chaque parent peut donner jusqu'à 100 000 € à chacun de ses enfants sans que l'enfant paie de droits, et recommencer 15 ans plus tard.",
+    "comment": [
+      "Faites le point des donations des 15 dernières années : elles comptent dans l'abattement.",
+      "Pour un bien (maison, titres) ou une grosse somme, passez par un notaire : il rédige l'acte et calcule les droits éventuels.",
+      "Un don d'argent se déclare en ligne par l'enfant, dans l'espace Finances publiques."
+    ],
+    "attention": [
+      "À voir avec un notaire avant toute donation : une donation est en principe définitive.",
+      "Au-delà de l'abattement, l'enfant paie des droits de 5 % à 45 % selon le montant.",
+      "Pour un petit-enfant, l'abattement est de 31 865 €."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14203",
+      "titre": "Droits de donation selon le lien avec le donateur (service-public.gouv.fr)",
+      "verifie_le": "2026-11-06"
+    }
+  ],
+  "echeances": [],
+  "maj": "2026-11-06"
+}
