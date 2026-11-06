@@ -1,0 +1,40 @@
+{
+  "id": "location-nue",
+  "nom": "Location vide : micro-foncier et déficit foncier",
+  "famille": "immobilier",
+  "statut": "en vigueur",
+  "calcul": null,
+  "valeurs": {
+    "micro_foncier_plafond": 15000,
+    "micro_foncier_abattement": 0.3,
+    "deficit_foncier_revenu_global": 10700,
+    "deficit_renovation_energetique": 21400,
+    "deficit_renovation_fin": "2027-12-31",
+    "report_ans": 10
+  },
+  "explications": {
+    "en_bref": "Louer un logement vide : au régime simple, 30 % des loyers ne sont pas imposés ; si vos travaux dépassent vos loyers, le déficit réduit vos autres revenus jusqu'à 10 700 € par an.",
+    "comment": [
+      "Jusqu'à 15 000 € de loyers par an, le micro-foncier s'applique : abattement de 30 %.",
+      "Au régime réel, les travaux et charges se déduisent ; un déficit (hors intérêts) se déduit du revenu global jusqu'à 10 700 € par an."
+    ],
+    "attention": [
+      "Le plafond monte à 21 400 € pour une rénovation énergétique qui fait passer le logement de E, F ou G à A, B, C ou D, jusqu'au 31 décembre 2027.",
+      "Le logement doit rester loué jusqu'au 31 décembre de la 3e année qui suit le déficit."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1991",
+      "titre": "Revenus locatifs d'une location non meublée (service-public.gouv.fr)",
+      "verifie_le": "2026-11-06"
+    }
+  ],
+  "echeances": [
+    {
+      "date": "2027-12-31",
+      "libelle": "Fin du plafond de déficit foncier à 21 400 € pour une rénovation énergétique"
+    }
+  ],
+  "maj": "2026-11-06"
+}

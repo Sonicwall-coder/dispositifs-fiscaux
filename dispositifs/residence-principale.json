@@ -1,0 +1,35 @@
+{
+  "id": "residence-principale",
+  "nom": "Résidence principale",
+  "famille": "immobilier",
+  "statut": "en vigueur",
+  "calcul": "residence-principale",
+  "valeurs": {
+    "plus_value_exoneree": true,
+    "interets_deductibles": false
+  },
+  "explications": {
+    "en_bref": "La plus-value que vous faites en vendant votre résidence principale n'est pas imposée ; en revanche, les intérêts de son prêt ne réduisent plus l'impôt.",
+    "comment": [
+      "Rien à déclarer pour la plus-value à la vente de votre résidence principale, si vous y habitiez au moment de la vente."
+    ],
+    "attention": [
+      "L'exonération ne vaut que pour le logement où vous habitez la majeure partie de l'année.",
+      "Depuis 2011, les intérêts d'un prêt pour la résidence principale n'ouvrent plus de crédit d'impôt."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10864",
+      "titre": "Plus-value immobilière (service-public.gouv.fr)",
+      "verifie_le": "2026-11-06"
+    },
+    {
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17625",
+      "titre": "Peut-on déduire les intérêts d'un crédit immobilier (service-public.gouv.fr)",
+      "verifie_le": "2026-11-06"
+    }
+  ],
+  "echeances": [],
+  "maj": "2026-11-06"
+}

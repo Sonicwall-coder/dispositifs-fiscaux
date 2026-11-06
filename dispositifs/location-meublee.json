@@ -1,0 +1,33 @@
+{
+  "id": "location-meublee",
+  "nom": "Location meublée (LMNP)",
+  "famille": "immobilier",
+  "statut": "en vigueur",
+  "calcul": null,
+  "valeurs": {
+    "annee": 2026,
+    "micro_bic_plafond": 83600,
+    "micro_bic_abattement": 0.5,
+    "lmnp_recettes_max": 23000
+  },
+  "explications": {
+    "en_bref": "Louer un logement meublé : au régime simple, la moitié des loyers est considérée comme des frais et n'est pas imposée.",
+    "comment": [
+      "Au régime micro-BIC (loyers jusqu'à 83 600 € en 2026), déclarez les loyers : un abattement de 50 % s'applique.",
+      "Au régime réel, vous déduisez les charges réelles et l'amortissement du logement et des meubles."
+    ],
+    "attention": [
+      "Le statut de loueur non professionnel suppose moins de 23 000 € de recettes par an (ou moins que vos autres revenus d'activité).",
+      "Les meublés de tourisme non classés ont des règles moins favorables (15 000 € et 30 % en 2026)."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32744",
+      "titre": "Revenus d'une location meublée (service-public.gouv.fr)",
+      "verifie_le": "2026-11-06"
+    }
+  ],
+  "echeances": [],
+  "maj": "2026-11-06"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pinel",
+  "nom": "Pinel",
+  "famille": "immobilier",
+  "statut": "supprimé",
+  "calcul": null,
+  "valeurs": {
+    "fin": "2024-12-31"
+  },
+  "explications": {
+    "en_bref": "Réduction d'impôt pour l'achat d'un logement neuf à louer : fermée aux nouveaux investissements depuis le 1er janvier 2025.",
+    "comment": [],
+    "attention": [
+      "Les investissements faits jusqu'au 31 décembre 2024 gardent leur réduction s'ils en respectent les conditions."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31151",
+      "titre": "Investissement locatif Pinel (service-public.gouv.fr)",
+      "verifie_le": "2026-11-06"
+    }
+  ],
+  "echeances": [],
+  "maj": "2026-11-06"
+}

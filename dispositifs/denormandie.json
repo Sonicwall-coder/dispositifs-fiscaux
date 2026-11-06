@@ -1,0 +1,40 @@
+{
+  "id": "denormandie",
+  "nom": "Denormandie (ancien à rénover)",
+  "famille": "immobilier",
+  "statut": "en vigueur",
+  "calcul": null,
+  "valeurs": {
+    "taux_6_ans": 0.12,
+    "taux_9_ans": 0.18,
+    "taux_12_ans": 0.21,
+    "travaux_min": 0.25,
+    "fin": "2027-12-31"
+  },
+  "explications": {
+    "en_bref": "Acheter un logement ancien à rénover dans certaines villes et le louer donne une réduction d'impôt de 12 % à 21 % du prix, selon la durée de location.",
+    "comment": [
+      "Vérifiez que la commune est éligible.",
+      "Les travaux doivent représenter au moins 25 % du coût total.",
+      "Louez 6, 9 ou 12 ans : réduction de 12 %, 18 % ou 21 %."
+    ],
+    "attention": [
+      "Ouvert jusqu'au 31 décembre 2027.",
+      "Ne se cumule pas avec le dispositif Relance logement sur le même logement."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35011",
+      "titre": "Investissement locatif dans l'ancien (Denormandie) (service-public.gouv.fr)",
+      "verifie_le": "2026-11-06"
+    }
+  ],
+  "echeances": [
+    {
+      "date": "2027-12-31",
+      "libelle": "Fin du dispositif Denormandie"
+    }
+  ],
+  "maj": "2026-11-06"
+}

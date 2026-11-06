@@ -1,0 +1,29 @@
+{
+  "id": "investissement-locatif",
+  "nom": "Investir dans l'immobilier locatif",
+  "famille": "immobilier",
+  "statut": "en vigueur",
+  "calcul": "investissement-locatif",
+  "valeurs": {},
+  "explications": {
+    "en_bref": "Louer un logement peut réduire l'impôt sur les loyers, voire sur vos autres revenus, selon la façon de louer (meublé ou vide) et le dispositif choisi.",
+    "comment": [
+      "Décidez d'abord meublé ou vide : les règles et les avantages ne sont pas les mêmes.",
+      "Comparez les dispositifs encore ouverts ci-dessous, et leurs dates de fin.",
+      "Faites chiffrer le projet par un notaire ou un conseiller avant de signer."
+    ],
+    "attention": [
+      "Ces avantages imposent des conditions (durée de location, plafonds de loyer, travaux, communes) qui engagent sur 6 à 12 ans.",
+      "À voir avec un notaire ou un conseiller avant tout achat."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35782",
+      "titre": "Investissement locatif : quels sont les dispositifs ? (service-public.gouv.fr)",
+      "verifie_le": "2026-11-06"
+    }
+  ],
+  "echeances": [],
+  "maj": "2026-11-06"
+}

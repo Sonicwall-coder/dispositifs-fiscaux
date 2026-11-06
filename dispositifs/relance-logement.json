@@ -1,0 +1,39 @@
+{
+  "id": "relance-logement",
+  "nom": "Relance logement (Jeanbrun), statut du bailleur privé",
+  "famille": "immobilier",
+  "statut": "en vigueur",
+  "calcul": null,
+  "valeurs": {
+    "amortissement_max_prix": 0.8,
+    "plafond_annuel": 8000,
+    "duree_location_ans": 9,
+    "debut": "2026-02-21",
+    "fin": "2028-12-31"
+  },
+  "explications": {
+    "en_bref": "Nouveau en 2026 : si vous louez vide, pendant 9 ans, un logement neuf ou ancien rénové dans un immeuble collectif, une partie de son prix se déduit chaque année de vos loyers imposables (jusqu'à 8 000 € par an).",
+    "comment": [
+      "Achat signé chez le notaire entre le 21 février 2026 et le 31 décembre 2028.",
+      "Location vide en résidence principale du locataire pendant 9 ans, avec des plafonds de loyer et de ressources."
+    ],
+    "attention": [
+      "Ce n'est pas une réduction d'impôt : c'est une déduction des revenus fonciers (amortissement).",
+      "Un projet de loi en discussion pourrait assouplir les conditions : la veille mettra la fiche à jour après adoption."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39735",
+      "titre": "Investissement locatif Relance logement (Jeanbrun) (service-public.gouv.fr)",
+      "verifie_le": "2026-11-06"
+    }
+  ],
+  "echeances": [
+    {
+      "date": "2028-12-31",
+      "libelle": "Fin des achats éligibles au dispositif Relance logement (Jeanbrun)"
+    }
+  ],
+  "maj": "2026-11-06"
+}

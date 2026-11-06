@@ -13,6 +13,13 @@
     "frais-scolarite",
     "donation-enfants",
     "don-familial",
-    "clause-beneficiaire"
+    "clause-beneficiaire",
+    "residence-principale",
+    "investissement-locatif",
+    "location-meublee",
+    "location-nue",
+    "denormandie",
+    "relance-logement",
+    "pinel"
   ]
 }
