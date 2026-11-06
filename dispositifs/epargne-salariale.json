@@ -1,0 +1,32 @@
+{
+  "id": "epargne-salariale",
+  "nom": "Intéressement et participation placés",
+  "famille": "epargne-retraite",
+  "statut": "en vigueur",
+  "calcul": "epargne-salariale",
+  "valeurs": {
+    "annee": 2026,
+    "plafond_exoneration": 36045,
+    "delai_choix_jours": 15,
+    "blocage_ans": 5
+  },
+  "explications": {
+    "en_bref": "Les primes d'intéressement et de participation versées par l'employeur sont imposées si vous les touchez tout de suite, mais pas si vous les placez sur le plan d'épargne de l'entreprise.",
+    "comment": [
+      "À l'annonce de la prime, vous avez 15 jours pour choisir : la toucher ou la placer.",
+      "Choisissez de la placer sur le PEE (bloqué 5 ans) ou sur le PER collectif (bloqué jusqu'à la retraite) : elle ne paie alors pas d'impôt sur le revenu.",
+      "Sans réponse de votre part, la prime est placée d'office sur le PEE s'il existe."
+    ],
+    "attention": [
+      "L'argent placé est bloqué : 5 ans sur un PEE (sauf cas de déblocage anticipé), jusqu'à la retraite sur un PER collectif.",
+      "L'exonération a une limite annuelle de 36 045 € en 2026."
+    ]
+  },
+  "sources": [
+    { "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2140", "titre": "Intéressement (service-public.gouv.fr)", "verifie_le": "2026-11-06" },
+    { "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2141", "titre": "Participation (service-public.gouv.fr)", "verifie_le": "2026-11-06" },
+    { "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2142", "titre": "Plan d'épargne entreprise (PEE) (service-public.gouv.fr)", "verifie_le": "2026-11-06" }
+  ],
+  "echeances": [],
+  "maj": "2026-11-06"
+}

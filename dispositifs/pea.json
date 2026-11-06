@@ -2,21 +2,40 @@
   "id": "pea",
   "nom": "Plan d'épargne en actions (PEA et PEA-PME)",
   "famille": "epargne-retraite",
-  "statut": "à confirmer",
-  "calcul": null,
+  "statut": "en vigueur",
+  "calcul": "pea",
   "valeurs": {
     "droits_preferentiels_souscription": "admis sous conditions (BOFiP du 2026-10-26)",
-    "titres_163_bis_h": "exclus ; exonération supprimée à partir du 2026-02-20 pour les titres déjà au plan avant le 2025-02-15"
+    "titres_163_bis_h": "exclus ; exonération supprimée à partir du 2026-02-20 pour les titres déjà au plan avant le 2025-02-15",
+    "plafond_pea": 150000,
+    "plafond_commun_pea_pme": 225000,
+    "anciennete_ans": 5
   },
   "explications": {
-    "en_bref": "Un compte pour acheter des actions : après une certaine durée, les gains ne sont plus soumis à l'impôt sur le revenu (seulement aux prélèvements sociaux).",
+    "en_bref": "Un compte pour placer en actions d'entreprises européennes : après 5 ans, les gains que vous retirez ne paient plus d'impôt sur le revenu (seulement les prélèvements sociaux).",
+    "comment": [
+      "Placez vos actions européennes dans le PEA plutôt que dans un compte-titres ordinaire, tant que vos versements restent sous 150 000 €.",
+      "Attendez les 5 ans du plan avant tout retrait.",
+      "Après 5 ans, vous pouvez retirer sans clôturer le plan, et sans impôt sur le revenu sur les gains."
+    ],
     "attention": [
-      "Fiche en cours de constitution : les plafonds de versement et la durée de détention n'ont pas encore été relevés sur une source officielle.",
+      "Un retrait avant 5 ans clôt le plan en principe (sauf licenciement, invalidité, retraite anticipée et quelques autres cas).",
+      "Les prélèvements sociaux restent dus sur les gains, quelle que soit la date du retrait.",
+      "Le plafond porte sur les sommes versées, pas sur la valeur du plan : un plan qui a beaucoup gagné peut dépasser 150 000 €.",
       "Les titres issus de certains plans réservés aux dirigeants (« management packages ») ne profitent plus de l'exonération."
     ]
   },
   "sources": [
-    { "url": "https://bofip.impots.gouv.fr/bofip/14721-PGP.html/ACTU-2025-00113", "titre": "BOFiP – Actualité : modifications du PEA et du PEA-PME", "verifie_le": "2026-11-06" }
+    {
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2385",
+      "titre": "Plan d'épargne en actions (PEA) (service-public.gouv.fr)",
+      "verifie_le": "2026-11-06"
+    },
+    {
+      "url": "https://bofip.impots.gouv.fr/bofip/14721-PGP.html/ACTU-2025-00113",
+      "titre": "BOFiP – Actualité : modifications du PEA et du PEA-PME",
+      "verifie_le": "2026-11-06"
+    }
   ],
   "maj": "2026-11-06"
 }

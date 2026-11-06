@@ -1,0 +1,34 @@
+{
+  "id": "assurance-vie",
+  "nom": "Assurance vie",
+  "famille": "epargne-retraite",
+  "statut": "en vigueur",
+  "calcul": "assurance-vie",
+  "valeurs": {
+    "anciennete_ans": 8,
+    "abattement_rachat_seul": 4600,
+    "abattement_rachat_couple": 9200,
+    "taux_prelevement_8_ans": 0.075,
+    "age_primes": 70,
+    "abattement_deces_avant_70": 152500,
+    "abattement_deces_apres_70": 30500
+  },
+  "explications": {
+    "en_bref": "Un placement souple : après 8 ans, les gains que vous retirez sont en partie sans impôt sur le revenu chaque année, et au décès les sommes versées avant vos 70 ans sont transmises avec un fort abattement.",
+    "comment": [
+      "Après les 8 ans du contrat, retirez chaque année une somme dont les gains restent sous l'abattement : votre assureur peut vous dire quelle part d'un retrait est du gain.",
+      "Avant vos 70 ans, les versements profitent de l'abattement de 152 500 € par bénéficiaire au décès ; après 70 ans, l'abattement n'est plus que de 30 500 € pour tous les contrats et tous les bénéficiaires.",
+      "Vérifiez que la clause bénéficiaire de chaque contrat dit bien qui doit recevoir les sommes."
+    ],
+    "attention": [
+      "Les prélèvements sociaux restent dus sur les gains, même sous l'abattement.",
+      "L'abattement annuel vaut pour l'ensemble de vos contrats, pas pour chacun.",
+      "Le conjoint ou le partenaire de PACS bénéficiaire est exonéré de toute façon : l'abattement compte surtout pour les enfants et les autres bénéficiaires."
+    ]
+  },
+  "sources": [
+    { "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F22414", "titre": "Assurance vie : fiscalité des rachats et au décès (service-public.gouv.fr)", "verifie_le": "2026-11-06" }
+  ],
+  "echeances": [],
+  "maj": "2026-11-06"
+}
