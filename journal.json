@@ -78,5 +78,17 @@
   "resultat": "rien de nouveau",
   "changements": [],
   "duree_s": 120
+ },
+ {
+  "date": "2026-11-26",
+  "heure": "04:10",
+  "moteur": "routine Claude (Sonnet)",
+  "jour_de_veille": true,
+  "listes_lues": 1,
+  "pages_lues": 0,
+  "nouveautes": 0,
+  "resultat": "rien de nouveau",
+  "changements": [],
+  "duree_s": 90
  }
 ]
